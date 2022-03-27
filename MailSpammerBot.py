@@ -5,10 +5,9 @@ import smtplib
 
 
 
-def menu():
-    print("[1] Option 1")
-    print("[2] Option 2")
-    print("[0] Exit the script.")
+print("[1] Option 1 MailSpammer")
+print("[2] Option 2 Not available")
+print("[0] Exit the script.")
 
 option = int(input("Enter your option: "))
 
